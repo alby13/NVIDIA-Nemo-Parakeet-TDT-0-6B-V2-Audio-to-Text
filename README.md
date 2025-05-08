@@ -1,5 +1,5 @@
 # NVIDIA-Nemo-Parakeet-TDT-0-6B-V2-Audio-to-Text
-NVIDIA Nemo Parakeet TDT 0.6B V2 Audio to Text Python Script
+NVIDIA Nemo Parakeet TDT 0.6B V2 Audio to Text Python Script - This converts a WAV or MP3 into text.
 
 This script is for:
 NVIDIA just open-sourced Parakeet TDT 0.6B V2, a 600M parameter automatic speech recognition (ASR) model that tops the Huggingface Open-ASR leaderboard with RTFx 3380
