@@ -18,8 +18,13 @@ It's open-sourced under CC-BY-4.0, ready for commercial use.
 
 
 # How to use:
-In the command line (bash) type (or use python if not python3): python3 transcribe_script.py [audio_filename.wav]
+In the command line (bash in Linux) type (or use python if not python3): python3 transcribe_script.py [audio_filename.wav]
 
+Run the script with your audio file path. You can optionally specify a segment length:
+
+```python3 transcribe_script.py /path/to/your/long_audio.wav```
+
+```python3 transcribe_script.py /path/to/your/long_audio.mp3 --segment_length 30```
 
 # What you need to do before you use this:
 
